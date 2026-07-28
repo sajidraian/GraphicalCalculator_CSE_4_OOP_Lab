@@ -72,18 +72,7 @@ java Main
 
 ## 📸 Screenshot
 
-Add your application screenshot here.
-
-```
-screenshots/calculator.png
-```
-
-or
-
-```markdown
-![Calculator Screenshot](screenshots/calculator.png)
-```
-
+![Graphical Calculator](screenshots/calculator.png)
 ## 📖 Learning Objectives
 
 This project demonstrates:
